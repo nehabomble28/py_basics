@@ -5,7 +5,6 @@ Created on Thu May 28 20:55:48 2020
 
 @author: nehab28
 """
-#Session 1 Assignment 28/05/2020
 #Write a Python Program to swap two variables. Read numbers from user
 
 num1 = int(input("Enter the first number:" ))
