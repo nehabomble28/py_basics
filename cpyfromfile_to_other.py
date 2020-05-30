@@ -7,9 +7,7 @@ Created on Sat May 30 15:54:40 2020
 """
 
 infile = open('data.txt' , 'r')
-
 lines = ''
-
 for line in infile:
     lines = line
 infile.close()
