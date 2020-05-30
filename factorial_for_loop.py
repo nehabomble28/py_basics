@@ -6,6 +6,7 @@ Created on Wed May  6 16:54:09 2020
 @author: nehab28
 """
 
+
 factorial  = 1
 
 num = int(input("Enter the number: "))
