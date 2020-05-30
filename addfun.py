@@ -10,7 +10,5 @@ def addfun(num):
     return (num+10)
 
 num = int(input("Enter the number to perform addition on: "))
-
 sum = addfun(num)
-
 print("\nThe Sum after adding 10 to the given number is ", sum)
