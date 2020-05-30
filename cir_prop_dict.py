@@ -5,8 +5,6 @@ Created on Thu May 28 22:13:01 2020
 
 @author: nehab28
 """
-
-#Session 1 Assignment 28/05/2020
 #Create a dictionary of radius and circumference as key value paors, Use comprehension
 
 properties = ['radius' , 'circumference']
