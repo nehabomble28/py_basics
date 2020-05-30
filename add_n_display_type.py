@@ -7,6 +7,7 @@ Created on Fri May 29 23:08:42 2020
 """
 
 #Write a function to add n elements from user in list, display each element and type of each element
+
 import collections
 
 def addition(num):
@@ -23,8 +24,7 @@ userList = userInput.split()
 numbers = []
 num = collections.Counter(userList)
 print("")
-
-    
+ 
 sum = addition(num)
 print("The Addition of given numbers is ", sum)
     
