@@ -12,13 +12,11 @@ count = 0
 
 userList = input("Enter the list: ")
 words = userList.split()
-
 print("\n" , words , "\n")
 
 for word in list(words):
     if (len(word) >= 2):
         print(word)
         count=count+1   
-        
         
 print("\nThe number of words with length as 2 or greater than 2 is: %d" %(count))
