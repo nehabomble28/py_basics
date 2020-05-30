@@ -5,7 +5,7 @@ Created on Fri May 29 10:08:09 2020
 
 @author: nehab28
 """
-#Session 1 Assignment 28/05/2020
+
 #Write a python program to accept a list of five numbers and perform following operations:
 # a) Find Minimum number b) Find Maximum number c) Reverse the list d) Sort the list
 
