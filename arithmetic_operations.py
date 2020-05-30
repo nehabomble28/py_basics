@@ -5,6 +5,7 @@ Created on Mon May  4 14:01:56 2020
 
 @author: nehab28
 """
+
 print("-------MENU FOR CALCULATOR-----------")
 print("1. Addition of two numbers:")
 print("2. Difference between two numbers:")
