@@ -23,5 +23,7 @@ for line in open('data.txt'):
             pos = 'out'
 
 print("Lines: ", lines)
+
 print("Words: ", words)
+
 print("Characters: ", letters)
