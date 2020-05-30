@@ -7,9 +7,7 @@ Created on Sat May 30 15:44:54 2020
 """
 
 outfile = open('write.txt' , 'w+')
-
 string = 'Hello'
-
 n = outfile.write(string)
 
 if (n <= 0):
