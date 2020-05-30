@@ -20,3 +20,4 @@ else:
     print("Fibonacci Series: ")
     for i in range(1,num):
         print(fibo(i))
+        
