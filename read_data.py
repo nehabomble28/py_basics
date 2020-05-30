@@ -5,7 +5,6 @@ Created on Sat May 30 15:32:29 2020
 
 @author: nehab28
 """
-
 #Write a python program to read first 10 characters from text file.
 
 with open('data.txt') as f:
@@ -16,3 +15,4 @@ with open('data.txt') as f:
             break
         print("", c)
         break
+        
