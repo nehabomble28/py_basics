@@ -15,7 +15,5 @@ def decision(input_str):
         return "This is a string"
     
 input_str = input("Enter the string: ")
-
 output_msg = decision(input_str)
-
 print(output_msg)
