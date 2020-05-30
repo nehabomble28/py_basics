@@ -6,7 +6,6 @@ Created on Thu May 28 21:03:18 2020
 @author: nehab28
 """
 
-#Session 1 Assignment 28/05/2020
 #Write a program to accept marks of five subjects, calculate percentage and display on the screen
 
 per = 0.0
