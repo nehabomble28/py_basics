@@ -6,7 +6,6 @@ Created on Fri May 29 10:40:54 2020
 @author: nehab28
 """
 
-#Session 2 Assignment 28/05/2020
 #Write a program to get text from user. Count how many times particular word occurred in the text
 
 import collections
