@@ -6,7 +6,6 @@ Created on Fri May 29 23:08:42 2020
 @author: nehab28
 """
 
-#Session 2 Assignment 28/05/2020
 #Write a function to add n elements from user in list, display each element and type of each element
 import collections
 
