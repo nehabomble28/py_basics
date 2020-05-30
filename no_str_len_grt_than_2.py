@@ -5,7 +5,6 @@ Created on Fri May 29 17:51:17 2020
 
 @author: nehab28
 """
-#Session 2 Assignment 28/05/2020
 #Write a python program to count the number of strings where the string length is 2 or more in the list of strings
 
 count = 0
